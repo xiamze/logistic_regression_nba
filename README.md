@@ -1,4 +1,4 @@
-# Logistic Regression And Regularization Research
+# Logistic Regression and Regularization Research
 
 This project applied Logistic Regression from sklearn to conduct a classification problem. Based on the NBA game data, train a model to judge whether a set of game data (2P/3P/AST etc.) belongs to Kobe. Model reached prediction accuracy of 75%. An extensive research of how regularization level effects model parameters is conducted based on different regularization level and mathmatical interval.
 
